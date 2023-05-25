@@ -55,7 +55,7 @@ The goals / steps of this project are the following:
 1. Download the data set [Cityscapes ](https://www.cityscapes-dataset.com/) . This is a image dataset . It contains a training, validation and test set with ground truth data .
 2. Clone the project, which contains the Ipython notebook and the utility python scripts .
 ```sh
-git clone https://github.com/himasha0421/Semantic-Segmentation-Cityscapes.git
+git clone https://github.com/usamahassan965/SemanticSegAssignment
 cd Semantic-Segmentation-Cityscapes
 jupyter notebook cityscape_tf.ipynb
 ```
